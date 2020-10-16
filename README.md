@@ -95,7 +95,7 @@ An HTML Webpage about my profile. Includes a file of my resume, contact informat
         <hr style="width:100%;height:2px;text-align:left;margin-left:0;background-color:black">
         
         <p>
-            Proactive Information Systems Management major (3.6 GPA) currently attending 
+            Proactive Management Information Systems major (3.6 GPA) currently attending 
             California State University, Long Beach, with 1+ years of work experience. 
             Aiming to leverage a proven knowledge of database design, information systems, 
             and web design skills to successfully fill the Data Science Intern role at your 
